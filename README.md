@@ -1,2 +1,2 @@
 # YBS2022_webdesign
-This is my first web design project on Figma.
+I'm sharing the link to my first project, which I developed as part of the Web Design Techniques course during the Spring 2025 semester. This project was designed using Figma and is aimed at providing an intuitive and user-friendly platform for tracking sports fixtures. It includes features that help users stay updated on match schedules, results, and team standings in an organized and accessible way.
